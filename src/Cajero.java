@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Cajero {
     public Scanner scanner;
-
+    //Hola
     public void menu() {
         scanner = new Scanner(System.in);
         System.out.println("Digite la clave");
